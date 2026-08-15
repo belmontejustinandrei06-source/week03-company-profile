@@ -206,6 +206,10 @@ Screenshots of the completed project are stored in the `screenshots/` directory.
 
 The screenshots include the website pages, navigation bar, footer, Laravel project structure, routes, controller, and shared Blade layout.
 
+## Documentation
+
+The project documentation includes screenshots of the completed website, Laravel project structure, routes, controller, shared layout, GitHub repository, and final Git status. These materials document the development process and completion of the Week 3 activity.
+
 ## 11. Problems Encountered and Solutions
 
 ### Problem 1: PHP and Composer Setup
