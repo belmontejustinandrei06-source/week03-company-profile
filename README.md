@@ -1,4 +1,4 @@
-Yep bro 😭 — **one single Markdown block**, so you can copy everything at once into `README.md`:
+ `README.md`:
 
 ````markdown
 # TechNova Solutions - Company Profile
